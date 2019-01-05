@@ -1,0 +1,38 @@
+{
+  "questions":[
+  {
+  "id" : 1,
+  "ques" : "first question",
+  "options" : {
+    "a": "1a option",
+    "b" : "1b option",
+    "c" : "1c option",
+    "d" : "1d option"
+  },
+  "ans" : "a"
+  },
+    {
+      "id" : 2,
+      "ques" : "second question",
+      "options" : {
+        "a": "2a option",
+        "b" : "2b option",
+        "c" : "2c option",
+        "d" : "2d option"
+      },
+      "ans" : "b"
+    },
+
+    {
+      "id" : 3,
+      "ques" : "third question",
+      "options" : {
+        "a": "3a option",
+        "b" : "3b option",
+        "c" : "3c option",
+        "d" : "3d option"
+      },
+      "ans" : "c"
+    }
+  ]
+}

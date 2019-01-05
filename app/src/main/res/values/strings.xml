@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">the MCQ app</string>
+    <string name="facebook_app_id">2193340607550237</string>
+    <string name="fb_login_protocol_scheme">fb2193340607550237</string>
+
+    <string name="coins_description1">* Coins can be earned either through completing
+    test or by watching videos.</string>
+    <string name="coins_description2">* Each video will earn you 100 coins.</string>
+    <string name="coins_description3">* Daily you can watch atmost 5 videos.</string>
+</resources>

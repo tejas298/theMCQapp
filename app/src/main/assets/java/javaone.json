@@ -1,0 +1,127 @@
+{"questions":[
+  {"ques":"The new operator",
+    "ans":"c",
+    "options":{
+      "a":"returns a pointer to a variable",
+      "b":"creates a variable called new",
+      "c":"obtains memory for a new variable",
+      "d":"tells how much memory is available"},
+    "id":1
+  },
+  {"ques":"Which of the following statement is correct?",
+    "ans":"a",
+    "options":{
+      "a":"For positive numbers, result of operators >> and >>> are same",
+      "b":"Java provides two operators to do left shift <<< and <<",
+      "c":">> is the zero fill right shift operator",
+      "d":">>> is the signed right shift operator"},
+    "id":2
+  },
+  {"ques":"Java language has support for which of the following types of comment ?",
+    "ans":"a",
+    "options":{
+      "a":"block, line and javadoc",
+      "b":"javadoc, literal and string",
+      "c":"javadoc, char and string",
+      "d":"single, multiple and quote"},
+    "id":3
+  },
+  {"ques":"Command to execute a compiled java program is :",
+    "ans":"b",
+    "options":{
+      "a":"javac",
+      "b":"java",
+      "c":"run",
+      "d":"execute"},
+    "id":4
+  },
+  {"ques":"The java compiler",
+    "ans":"b",
+    "options":{
+      "a":"creates executable",
+      "b":"translates java source code to byte code",
+      "c":"creates classes",
+      "d":"produces java Interpreter"},
+    "id":5
+  },
+  {"ques":"The order of the three top level elements of the java source file are",
+    "ans":"c",
+    "options":{
+      "a":"Import, Package, Class",
+      "b":"Class, Import, Package",
+      "c":"Package, Import, Class",
+      "d":"Random order"},
+    "id":6
+  },
+  {"ques":"The minimum value of char type variable is",
+    "ans":"d",
+    "options":{
+      "a":"\u2018\\u0020\u2019",
+      "b":"\u2018\\u00ff\u2019",
+      "c":"\u2018\\u0010\u2019",
+      "d":"\u2018\\u0000\u2019"},
+    "id":7
+  },
+  {"ques":"Java uses ___ to represent characters",
+    "ans":"b",
+    "options":{
+      "a":"ASCII code",
+      "b":"Unicode",
+      "c":"Byte code",
+      "d":"None of the above"},
+    "id":8
+  },
+  {"ques":"Which one is not supported by OOP?",
+    "ans":"d",
+    "options":{
+      "a":"Abstraction",
+      "b":"Polymorphism",
+      "c":"Encapsulation",
+      "d":"Global variables"},
+    "id":9
+  },
+  {"ques":"Java programs are",
+    "ans":"c",
+    "options":{
+      "a":"Platform-dependent",
+      "b":"Interpreter-dependent",
+      "c":"Platform-independent",
+      "d":"Interpreter-independent"},
+    "id":10
+  },
+  {"ques":"Which of the following is not an valid declaration of an array?",
+    "ans":"d",
+    "options":{
+      "a":"int [ ] a = new int [3];",
+      "b":"int a [ ] [ ] = new int [3] [3]",
+      "c":"int [ ] [ ] a = new int [3] [ ];",
+      "d":"int [ ] [ ] a = new int [ ] [3];"},
+    "id":11
+  },
+  {"ques":"String.ValueOf('r').concat(\"def\").concat(String.ValueOf('2'))",
+    "ans":"b",
+    "options":{
+      "a":"0",
+      "b":"1",
+      "c":"3",
+      "d":"4"},
+    "id":12
+  },
+  {"ques":"Which of the following is correct statement?",
+    "ans":"c",
+    "options":{
+      "a":"Boolean true value is 1 and false value is 0",
+      "b":"Every private class has a wrapper class",
+      "c":"Constant identifier precede with a reserved word final",
+      "d":"System.out.println() method also flushes the buffer"},
+    "id":13
+  },
+  {"ques":"Size of an integer can be",
+    "ans":"a",
+    "options":{
+      "a":"-2^31 to 2^31-1",
+      "b":"0 to -2^16",
+      "c":"-2^8 to 2^8-1",
+      "d":"-2^15 to 2^15-1"},
+    "id":14}
+]}
